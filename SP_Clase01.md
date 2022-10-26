@@ -108,7 +108,8 @@ void main(List<String> args) {
 
 ## Funciones
 Existen dos tipos de formas de declarar funciones, ya sea de forma explicita o con fat arrow.
-Existen dos tipos de funciones, las que retornan valores y las que no retornan nada. En el caso de las funciones que retornan valores, son fáciles de identificar pues son las que en la declaración explicita hacen uso de la palabra reservada “return”, y puede ser asignada o invocada en el main. En el caso de las funciones que no retornan valores, solo se invocan.
+Existen dos tipos de funciones, las que retornan valores y las que no retornan nada. En el caso de las funciones que retornan valores, son fáciles de identificar pues son las que en la declaración explicita hacen uso de la palabra reservada “return”, y puede ser asignada o invocada en el main. En el caso de las funciones que no retornan valores, solo se invocan.\
+Es importante mencionar que en la programación orientada a objetos a las funciones les encontraremos bajo el nombre de métodos de la clase, pero no usaré el término hasta ver el tema de “Clases”.
 
 *Código:*
 ```
