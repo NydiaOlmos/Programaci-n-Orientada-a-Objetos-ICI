@@ -215,7 +215,7 @@ void main(List<String> args) {
 
 ## Ejercicio
 ### Planteamiento del problema 
-Calculadora que lea dos números del teclado y obtenga suma, resta, multiplicación y división, usando funciones y asignado valores a dos variables.
+Calculadora que lea dos números del teclado y obtenga suma, resta, multiplicación y división, usando funciones y asignado valores a dos variables.\
 *Código:*
 ```
 import 'dart:io';
